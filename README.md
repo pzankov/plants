@@ -1,1 +1,1 @@
-See the repo's [wiki](https://github.com/CyberhavenInc/plants/wiki)
+See the repo's [wiki](https://github.com/pzankov/plants/wiki)
